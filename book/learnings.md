@@ -1,5 +1,7 @@
 # Things I've learnt
 
+## Meteor run
+
 To create a project with meteor run:
 
 ```
@@ -20,3 +22,21 @@ package.json
 ```
 
 The front-end files are placed into the client folder and the backend is inside the server folder.
+
+## Meteor NPM
+
+To install your dependencies listed in your ```package.json``` file you run:
+
+```
+meteor npm install
+```
+
+## Run your meteor app
+
+To run your meteor app you execute the following:
+
+```
+meteor run
+```
+
+first time you do this, it compiles everything and downloads packages so this takes a while...

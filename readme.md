@@ -3,3 +3,10 @@
 # Learning Meteor.js
 
 A repo full of apps and toys I've made with meteor
+
+## Projects
+
+```
+/todos #classic learning meteor tutorial
+/ohta  #simple internal thank you system
+```
