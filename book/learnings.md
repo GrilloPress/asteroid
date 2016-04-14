@@ -40,3 +40,9 @@ meteor run
 ```
 
 first time you do this, it compiles everything and downloads packages so this takes a while...
+
+## The import folder
+
+Meteor now suggests placing much of your app inside a ```imports``` folder.
+
+Things like the ```ui```, ```api``` etc. which you then include into your client or server code.
